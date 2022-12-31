@@ -10,7 +10,7 @@ dependencies:
   path: '>1.4.0'
   tekartik_platform:
     git:
-      url: https://github.com/CravApp/platform
+      url: https://github.com/CravApp/platform.dart
       path: platform
       ref: null_safety
     version: '>=0.2.1'
